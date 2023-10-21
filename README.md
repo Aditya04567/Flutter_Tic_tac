@@ -4,8 +4,9 @@
 
 This is a simple Tic Tac Toe game built with Flutter. The game provides a 3x3 grid where two players can take turns to make their moves. The objective of the game is to be the first to get three of your symbols (either 'X' or 'O') in a row, column, or diagonal. If the grid is completely filled and no player has won, the game ends in a draw.
 
-[Uploading Screen_recording_20231021_184831.webm…]()
+![Screenshot 2023-10-21 161315](https://github.com/Aditya04567/Flutter_Tic_tac/assets/127686599/b11bcbf8-d712-47ca-81a1-937a816e8a8e)
 
+[Screen_recording_20231021_184831.webm](https://github.com/Aditya04567/Flutter_Tic_tac/assets/127686599/1a43d0b5-74be-4514-9915-fa17652219a4)[Screen_recording_20231021_184831.webm](https://github.com/Aditya04567/Flutter_Tic_tac/assets/127686599/af1c498e-79bc-4897-820b-535e4de9a2ed)
 
 
 ## Getting Started
