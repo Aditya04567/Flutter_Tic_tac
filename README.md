@@ -63,9 +63,6 @@ The app is structured into two main classes:
 
 - `TicTacToePage`: This class is responsible for the game logic and user interface. It handles the game board, player turns, and the game's state.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
